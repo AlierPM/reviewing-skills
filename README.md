@@ -1,50 +1,59 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Reviewing Skills
 
-> Description the project.
+> In this project, i will be impolementing reviewing skills on one of my trial project .
+## Here I will implement the following:
+
+> Apply best practices in HTML code.
+
+> Use semantic HTML tags.
+
+> Use CSS selectors correctly.
+
+> Use CSS box model.
+
+> Perform a code review for myself on  this project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML
+- CSS
+- Technologies used: vs code, git and GitHub
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+>To get a local copy up and running follow these simple example steps.
+Locate the project folder in the Repository.
+Click on the code button and dowload a zip file for the project locally.
+Locate the index.html file and double click it to view webpage.
 
 ### Prerequisites
+Node.js, stylelint, browser for displaying it's content.
+install node package manager(npm): npm helps to install stylelint.
+
 
 ### Setup
-
-### Install
+Download and install browser.
 
 ### Usage
+Navigate through the web page to find the information you need. Use the links in the pages to move to different sections.
 
-### Run tests
 
 ### Deployment
+  Project reside in this Repo. You can clone the repo or download the files manually to your local machine.
 
 
 
 
 
-👤 **Author**
-
-- GitHub: [@githubhandle](https://github.com/AlierPM)
-- Twitter: [@twitterhandle](https://twitter.com/AlierPM)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
+## Authors
+:bust_in_silhouette: **Alier Philip Maguet**
+- GitHub: [@AlierPM](https://github.com/AlierPM)
+- Twitter: [@AlierPM](https://twitter.com/AlierPM)
+- LinkedIn: [@AlierPM](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
 
 
 ## 🤝 Contributing
@@ -66,3 +75,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
